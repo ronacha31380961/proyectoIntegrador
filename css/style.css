@@ -1,0 +1,146 @@
+#barra-navegadora
+{
+    background-color: #34395F;
+}
+
+li {
+    flex: 1;
+    padding: 10px;
+}
+
+
+
+
+#carouselExampleCaptions
+{
+    position: absolute; 
+ 
+     
+ }
+ 
+
+
+#conoce
+{
+
+    text-align: center;
+}
+
+
+#oradores
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card
+{
+    margin-right: 20px;
+}
+
+.js
+{
+    background-color:#D8D812;
+    font-weight: bold;
+    margin-right: 5px;
+}
+.react
+{
+    background-color:#3FB6D3;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-right: 5px;
+}
+.titulos-cartas
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+.negocios
+{
+    background-color:#8E8589 ;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+
+
+.startups
+{
+    background-color:#DC1A75 ;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-right: 5px;
+
+
+}
+
+.imagen
+{
+padding-left: 0%;
+padding-right: 0%;
+
+
+}
+
+.bsas
+{
+    background-color: #34395F;
+    color: #FFFFFF;
+    float: left;
+}
+.titulo-foto
+{
+    font-size: 30px;
+}
+.btn-secondary
+{
+    background-color: #34395F;
+
+}
+.anotate
+{
+    text-align: center;
+}
+.btn-success 
+{
+    background-color:#96c93e !important;
+}
+
+.foot
+{
+    display: flex;
+    background-color:#0F50A4;
+    height:100px;
+  
+    height: 20vh;
+    text-align: center;
+    position: relative;
+    
+}
+.nav
+{
+    text-align: center;
+}
+
+.nav-item
+{
+    
+   text-decoration: none !important;
+    color: #FFFFFF;
+}
+
+.link-de-footer
+{
+    text-align: center;
+    position: relative;
+    margin-left: 10px;
+    color: #FFFFFF;
+   
+}
+.navbar-expand-lg 
+{
+    background-color: #532444;
+}
