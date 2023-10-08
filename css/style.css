@@ -1,7 +1,4 @@
-#barra-navegadora
-{
-    background-color: #34395F;
-}
+
 
 li {
     flex: 1;
@@ -87,7 +84,7 @@ padding-right: 0%;
 
 .bsas
 {
-    background-color: #34395F;
+    background-color:#566573;
     color: #FFFFFF;
     float: left;
 }
@@ -143,4 +140,31 @@ padding-right: 0%;
 .navbar-expand-lg 
 {
     background-color: #532444;
+}
+
+
+#PieDePagina
+{
+    background-color:#0C6D7C;
+    text-align: center;
+    position: relative;
+    margin-left: 10px;
+   
+}
+#navbarInferior
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbar-collapse
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
