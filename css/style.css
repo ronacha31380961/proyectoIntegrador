@@ -168,3 +168,73 @@ padding-right: 0%;
     align-items: center;
 
 }
+
+
+
+
+
+.custom-border {
+    padding: 10px;
+    margin: 10px;
+}
+
+.custom-border.Estudiante
+{
+    border: 1px solid #3210f09d;
+   
+}
+
+.custom-border.Trainee
+{
+    border: 1px solid #061172;
+   
+}
+
+.custom-border.Junior
+{
+    border: 1px solid #f0e110;
+   
+}
+
+.tituloDescuento
+{
+    font-weight: bold ;
+    font-size: large;
+    text-align: center;
+}
+
+.textoDescuento
+{
+    text-align: center;
+    color: #566573;
+}
+
+.porcDescuento
+{
+    text-align: center;
+    font-weight: bold;
+}
+.notaDescuento
+{
+    text-align: center;
+    color:#566573;
+}
+
+#tituloTickets
+{
+    text-align: center;
+}
+
+
+#cuadroTotalAPagar
+{
+    background-color: rgb(154, 224, 245);
+    max-height: 4rem;
+    
+}
+
+#textoTotalAPagar
+{
+    color: darkslateblue;
+    font-size: large;
+}
